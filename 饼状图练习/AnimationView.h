@@ -15,7 +15,7 @@
  *  @param frame      frame
  *  @param dataItems  数据源
  *  @param colorItems 对应数据的pie的颜色，如果colorItems.count < dataItems 或
- *                      colorItems 为nil 会随机填充颜色
+ *                      colorItems 为nil 会随机填充颜色 titleItems 是文字
  *
  */
 - (id)initWithFrame:(CGRect)frame
